@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCustoViagemBySamuel.MainPage">
+
+    <StackLayout>
+
+        <Label Text="" />
+        <Label Text="" />
+        <Label Text="" />
+        <Label Text="" />
+        <Label Text="" />
+        
+
+        <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Start" Text="APP Custo Viagem" 
+                   TextColor="Black" FontFamily="Arial" FontAttributes="Bold" FontSize="Title" />
+            <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Start" Text= "🚗 " FontSize="Title"/>
+
+        <Label Text="" />
+        <Label Text="" />
+        <Label Text="" />
+        <Label Text="" />
+        <Label Text="" />
+        <Label Text="" />
+
+        <Label HorizontalTextAlignment="Center" TextColor="Black" FontFamily="Arial" FontSize="Body" Text="Olá 💅 Eu sou o APP Custo Viagem. Criado exclusivamente para fazer o Samuel passar raiva pq ele não sabe programar. Se isso aqui funcionar, vc poderá me usar, obviamente 🙄, para cacular os custos da sua viagem." />
+
+        <Label Text="" />
+        <Label Text="" />
+        <Label Text="" />
+        <Label Text="" />
+        
+        <Button Text="Calcular viagens" TextColor="White" FontAttributes="Bold" FontFamily="Arial" BackgroundColor="DarkOliveGreen" CornerRadius="15"/>
+    </StackLayout>
+
+</ContentPage>
